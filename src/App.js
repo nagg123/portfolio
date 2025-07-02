@@ -7,7 +7,7 @@ import Skills from './components/skills';
 import Experience from './components/experience';
 import Contact from './components/contact';
 import Footer from './components/footer';
-<a href="/resume.pdf" download target="_blank" rel="noopener noreferrer">Download Resume</a>
+
 
 import './App.css'; // Global styles
 import { Element } from 'react-scroll'; // Not strictly needed if using IDs directly
